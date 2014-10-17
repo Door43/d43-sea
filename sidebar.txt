@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sea:home|Door43 (sea)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sea|d43-sea repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sea/archive/master.zip|d43-sea.zip]]
+
+**Recent Changes**
+{{changes>ns = sea}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sea|Ethnologue data]]
+
